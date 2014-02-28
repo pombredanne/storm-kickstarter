@@ -1,8 +1,11 @@
 classes/
 lib/
+target
 *.pyc
 .classpath
 .project
 *.jar
-.lein-deps-sum
+.idea
+*.iml
+
 
