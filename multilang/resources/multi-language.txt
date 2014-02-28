@@ -1,0 +1,1 @@
+Add your spouts and bolts definitions for non-JVM languages to this folder
